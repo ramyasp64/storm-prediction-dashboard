@@ -1,0 +1,32 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Central,1,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+East,2,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Newdelhi,3,5mps,74,28°C,Clouds,25-01-21,26-02-21
+North,4,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+NorthEast,5,31mps,85,27°C,Lightning,08-02-21,26-02-21
+NorthWest,6,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+South,7,3mps,75,28°C,lightair,02-02-21,15-02-21
+South West,8,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+West,9,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Delhi,10,5mps,72,32°C,Hot air,05-02-21,02-03-21
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

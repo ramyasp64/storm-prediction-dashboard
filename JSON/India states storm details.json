@@ -1,0 +1,7225 @@
+{
+  "name": "India",
+  "Andra Pradesh": [
+    {
+      "name": "Anantapur",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Chittoor",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "East Godavari",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Guntur ",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "mist",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Cuddapah",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Krishna",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Kurnool",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Prakasam",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Nellore",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Srikakulam",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Vishakhapatnam",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Vizinagaraam",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "West Godavari",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    }
+  ],
+  "Arunachal Pradesh": [
+    {
+      "name": "Changlang",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+
+    },
+    {
+      "name": "Upper Dibang Vally",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+
+    },
+    {
+      "name": "East Kameng",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "East Siang",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Lohit",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Lower Subansiri",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+
+    },
+    {
+      "name": "Papum-Pare",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+
+    },
+    {
+      "name": "Tawang",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+
+    },
+    {
+      "name": "Tirap",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+
+    },
+    {
+      "name": "Upper Siang",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+
+    },
+    {
+      "name": "Upper Subansiri",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+
+    },
+    {
+      "name": "West Kameng",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+
+    },
+    {
+      "name": "West Siang",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+
+    },
+    {
+      "name": "Anjaw",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Lower Dibang Vally",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Kurung Kumey",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    }
+
+  ],
+  "Assam": [
+    {
+      "name": "Baksa",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+
+    },
+    {
+      "name": "Barpeta",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+
+    },
+    {
+      "name": "Biswanath",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Bongaigaon",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Cachar",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Charaideo",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+
+    },
+    {
+      "name": "Chirang",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+
+    },
+    {
+      "name": "Darrang",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Dhemaji",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate" : "08-02-2021"
+    },
+    {
+      "name": "Dhubri",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+
+    },
+    {
+      "name": "Dibrugarh",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Dima Hasao (North Cachar Hills)",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Goalpara",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Hailakandi",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Hojai",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Jorhat",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Kamrup",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Kamrup Metropolitan",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Karbi Anglong",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Karimganj",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Kokrajhar",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Lakhimpur",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Majuli",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Morigaon",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Nagaon",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Nalbari",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Sivasagar",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sonitpur",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "South Salamara-Mankachar",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Tinsukia",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Udalguri",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "West Karbi Anglong",
+      "id": "32",
+      "wind": "89mps",
+      "humantity": "90",
+      "Temperature": "36°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Golaghat",
+      "id": "33",
+      "wind": "66mps",
+      "humantity": "88",
+      "Temperature": "17°C",
+      "storm": "thunderstorm",
+      "startdate": "26-01-2021",
+      "enddate": "01-02-2021"
+    }
+  ],
+  "Bihar": [
+    {
+      "name": "Araria",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Arwal",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Aurangabad",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Banka",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Begusarai",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bhagalpur",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Bhojpur",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Buxar",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Darbhanga",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "East Champaran (Motihari)",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Gaya",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Gopalganj",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Jamui",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Jehanabad",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Kaimur (Bhabua)",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Katihar",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Kishanganj",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Lakhisarai",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Madhepura",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Madhubani",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Munger (Monghyr)",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Muzaffarpur",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Nalanda",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Nawada",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Patna",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Purnia (Purnea)",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Rohtas",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Saharsa",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Samastipur",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Saran",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Sheikhpura",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "Sheohar",
+      "id": "32",
+      "wind": "89mps",
+      "humantity": "90",
+      "Temperature": "36°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Sitamarhi",
+      "id": "33",
+      "wind": "26mps",
+      "humantity": "65",
+      "Temperature": "25°C",
+      "storm": "sunny",
+      "startdate": "05-03-2021",
+      "enddate": "15-03-2021"
+    },
+    {
+      "name": "Siwan",
+      "id": "34",
+      "wind": "18mps",
+      "humantity": "45",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "25-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Supaul",
+      "id": "35",
+      "wind": "69mps",
+      "humantity": "87",
+      "Temperature": "17°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "18-02-2021"
+    },
+    {
+      "name": "Vaishali",
+      "id": "36",
+      "wind": "56mps",
+      "humantity": "77",
+      "Temperature": "25°C",
+      "storm": "rain",
+      "startdate": "16-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "West Champaran",
+      "id": "37",
+      "wind": "70mps",
+      "humantity": "86",
+      "Temperature": "17°C",
+      "storm": "thunderstorm",
+      "startdate": "28-02-2021",
+      "enddate": "06-03-2021"
+    },
+    {
+      "name": "Khagaria",
+      "id": "38",
+      "wind": "56mps",
+      "humantity": "77",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "19-02-2021",
+      "enddate": "23-02-2021"
+    }
+  ],
+  "Chhattisgarh": [
+    {
+      "name": "Balod",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Baloda Bazar",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Balrampur",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bastar",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bemetara",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bijapur",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Bilaspur",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Dantewada (South Bastar)",
+      "id": "8",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Dhamtari",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Durg",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+
+    },
+    {
+      "name": "Gariyaband",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+
+    },
+    {
+      "name": "Janjgir-Champa",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+
+    },
+    {
+      "name": "Jashpur",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+
+    },
+    {
+      "name": "Kabirdham (Kawardha)",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+
+    },
+    {
+      "name": "Kanker (North Bastar)",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+
+    },
+    {
+      "name": "Kondagaon",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+
+    },
+    {
+      "name": "Korba",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Korea (Koriya)",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Mahasamund",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Mungeli",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Narayanpur",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Raigarh",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Raipur",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Rajnandgaon",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Sukma",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Surajpur",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Surguja",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    }
+
+  ],
+  "Goa": [
+    {
+      "name": "North goa",
+      "id": "1",
+      "wind": "56mps",
+      "humantity": "80",
+      "Temperature": "15°C",
+      "storm": "lightning",
+      "startdate": "26-01-2021",
+      "enddate": "28-01-2021"
+    },
+    {
+      "name": "south goa",
+      "id": "2",
+      "wind": "12mps",
+      "humantity": "75",
+      "Temperature": "21°C",
+      "storm": "sunny",
+      "startdate": "02-02-2021",
+      "enddate": "12-02-2021"
+    }
+  ],
+  "Gujarat": [
+
+    {
+      "name": "Ahmedabad",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+
+    },
+    {
+      "name": "Amreli",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+
+    },
+    {
+      "name": "Anand",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Aravalli",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Banaskantha (Palanpur)",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+
+    },
+    {
+      "name": "Bharuch",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+
+    },
+    {
+      "name": "Bhavnagar",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+
+    },
+    {
+      "name": "Botad",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+
+    },
+    {
+      "name": "Darbhanga",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+
+    },
+    {
+      "name": "chota udepur",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+
+    },
+    {
+      "name": "Dahod",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+
+    },
+    {
+      "name": "Dangs",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+
+    },
+    {
+      "name": "Devbhoomi dwarka",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+
+    },
+    {
+      "name": "Gandhinagar",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+
+    },
+    {
+      "name": "Gir somnath",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+
+
+    },
+    {
+      "name": "Jamnagar",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+
+    },
+    {
+      "name": "Junagadh",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+
+    },
+    {
+      "name": "Kachch",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Keda",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Mahisagar",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Morbi",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Narmada (Rajpipla)",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Navsari",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Panchmahal (Godhra)",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Patan",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Porbandar",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Rajkot",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sabarkantha (Himmatnagar)",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Surat",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Surendranagar",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Tapi (Vyara)",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "Vadodara",
+      "id": "32",
+      "wind": "89mps",
+      "humantity": "90",
+      "Temperature": "36°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Valsad",
+      "id": "33",
+      "wind": "26mps",
+      "humantity": "65",
+      "Temperature": "25°C",
+      "storm": "sunny",
+      "startdate": "05-03-2021",
+      "enddate": "15-03-2021"
+    }
+  ],
+  "Haryana": [
+    {
+      "name": "Ambala",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Bhiwani",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Charkhi Dadri",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Faridabad",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Fatehabad",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Gurugram",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Hisar",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Jhajjar",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Jind",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Kaithal",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Karnal",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kurukshetra",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Mahendragarh",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Nuh",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Palwal",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Panchkula",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Panipat",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Rewari",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Rohtak",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Sirsa",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Sonipat",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Yamunanagar",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    }
+  ],
+  "Himachal Pradesh": [
+    {
+      "name": "Bilaspur",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Chamba",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Hamirpur",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Kangra",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Kinnaur",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Kullu",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Lahaul&Spiti",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Mandi",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Shimla",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Sirmaur (Sirmour)",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Solan",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Una",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    }
+
+  ],
+  "Jharkhand": [
+    {
+      "name": "Bokaro",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Chatra",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Deoghar",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Dhanbad",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Dumka",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "East singhbhum",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Garhwa",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Giridih",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Godda",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Gumla",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Hazaribag",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Jamtara",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Khunti",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Koderma",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Latehar",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Lohardaga",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Pakur",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Palamu",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Ramgarh",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Ranchi",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Sahibganj",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Seraikela-kharsawan",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Simdega",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "West Singhbhum",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    }
+
+  ],
+  "Karnataka": [
+    {
+      "name": "Bagalkot",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Ballari",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Belagavi",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bengaluru rural",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bengaluru urban",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bidar",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Chamarajanagar",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Chikballapur",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Chikkamagaluru (Chikmagalur)",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Chitradurga",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Dakshina Kannada",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Davangere",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Dharwad",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Gadag",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Hassan",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Haveri",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Kalaburagi (Gulbarga)",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Kodagu",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Kolar",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Koppal",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Mandya",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Mysuru",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Raichur",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Ramanagara",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Shivamogga (Shimoga)",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Tumakuru (Tumkur)",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Udupi",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Uttara Kannada (Karwar)",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Vijayapura (Bijapur)",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Yadgir",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    }
+
+
+  ],
+  "Kerala": [
+    {
+      "name": "Alappuzha",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Ernakulam",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Idukki",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Kannur",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Kasaragod",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Kollam",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Kottayam",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kozhikode",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Malappuram",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Palakkad",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Pathanamthitta",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Thrissur",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Wayanad",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    }
+
+  ],
+  "Madhya Pradesh": [
+    {
+      "name": "Agar Malwa",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Alirajpur",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Anuppur",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Ashoknagar",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Balaghat",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Barwani",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Betul",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Bhind",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Bhopal",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Burhanpur",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Chhatarpur",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Chhindwara",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Damoh",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Datia",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Dewas",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Dhar",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Dindori",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Guna",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Gwalior",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Harda",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Hoshangabad",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Indore",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Jabalpur",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Jhabua",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Katni",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Khandwa",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Khargone",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Mandla",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Mandsaur",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Morena",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      
+      "name": "Narasinghpur",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "Neemuch",
+      "id": "32",
+      "wind": "89mps",
+      "humantity": "90",
+      "Temperature": "36°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Panna",
+      "id": "33",
+      "wind": "66mps",
+      "humantity": "88",
+      "Temperature": "17°C",
+      "storm": "thunderstorm",
+      "startdate": "26-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Raisen",
+      "id": "34",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "heavy rain",
+      "startdate": "25-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Rajgarh",
+      "id": "35",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "18°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Ratlam",
+      "id": "36",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "clouds",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Rewa",
+      "id": "37",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Sagar",
+      "id": "38",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Satna",
+      "id": "39",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Sehore",
+      "id": "40",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Seoni",
+      "id": "41",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Shahdol",
+      "id": "42",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Shajapur",
+      "id": "43",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Sheopur",
+      "id": "44",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Shivpuri",
+      "id": "45",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Sidhi",
+      "id": "46",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Singrauli",
+      "id": "47",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Tikamgarh",
+      "id": "48",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Ujjain",
+      "id": "49",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Umaria",
+      "id": "50",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Vidisha",
+      "id": "51",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    }
+  ],
+  "Maharashtra": [
+    {
+      "name": "Ahmednagar",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Akola",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Amravati",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Aurangabad",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Beed",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bhandara",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Buldhana",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Chandrapur",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Dhule",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Gadchiroli",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Gondia",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Hingoli",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Jalgaon",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Jalna",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Kolhapur",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Latur",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Mumbai city",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Mumbai suburban",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Nagpur",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Nanded",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Nashik",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Osmanabad",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Palghar",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Parbhani",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Pune",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Raigad",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Ratnagiri",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sangli",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Satara",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sindhudurg",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Solapur",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "Thane",
+      "id": "32",
+      "wind": "89mps",
+      "humantity": "90",
+      "Temperature": "36°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Wardha",
+      "id": "33",
+      "wind": "66mps",
+      "humantity": "88",
+      "Temperature": "17°C",
+      "storm": "thunderstorm",
+      "startdate": "26-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Washim",
+      "id": "34",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "heavy rain",
+      "startdate": "25-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Nandurbar",
+      "id": "35",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "18°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Yavatmal",
+      "id": "36",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "clouds",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    }
+  ],
+  "Manipur": [
+    {
+      "name": "Bishnupur",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Chandel",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Churachandpur",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Imphal East",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Imphal West",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Jiribam",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Kakching",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kamjong",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Kangpokpi",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Noney",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Pherzawl",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Senapati",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Tamenglong",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Tengnoupal",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Thoubal",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Ukhrul",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    }
+  ],
+  "Meghalaya": [
+    {
+      "name": "East Garo Hills",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "East Jaintia Hills",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "East Khasi Hills",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "North Garo Hills",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Ribhoi",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "South Garo Hills",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "South West Garo Hills",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "South West Khasi Hills",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "West Garo Hills",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "West Jaintia Hills",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "West Khasi Hills",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    }
+  ],
+  "Mizoram": [
+    {
+      "name": "Aizawl",
+      "id": "1",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "Hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Champhai",
+      "id": "2",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "Gentle Breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kolasib",
+      "id": "3",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "Clear Clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Lawngtlai",
+      "id": "4",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "Lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Lunglei",
+      "id": "5",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "Hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Mamit",
+      "id": "6",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Saiha",
+      "id": "7",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightair",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Serchhip",
+      "id": "8",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    }
+  ],
+  "Nagaland": [
+    {
+      "name": "Dimap",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Kiphire",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Kohima",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Longleng",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Mokokchung",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Mon",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Peren",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Phek",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Tuesnsang",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Wokha",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Zunheboto",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    }
+  ],
+  "Odisha": [
+    {
+      "name": "Angul",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Boudh",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Balangir",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bargarh",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Balasore",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bhadrak",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Cuttack",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Deogarh",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Dhenkanal",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Ganjam",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Gajapati",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Jharsuguda",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Jajpur",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Jagatsinghapur",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Khordha",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "keonjhar",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Kalahandi",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Kandhamal",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Koraput",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Kendrapara",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Malkangiri",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Mayurbhanj",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Nabarangpur",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Nuapada",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Nayagarh",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Puri",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Rayagada",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sambalpur",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Subarnapur",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sundargarh",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    }
+  ],
+  "Punjab": [
+    {
+      "name": "Amritsar",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Barnala",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Bathinda",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Faridkot",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Fatehgarh Sahib",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Fazilka",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Ferozepur",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Gurdaspur",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Hoshiarpur",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Jalandhar",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Kapurthala",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Ludhiana",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Mansa",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Muktsar",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Nawanshahr",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Pathankot",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Patiala",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Rupnagar",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Sahibzada Ajit Singh Nagar",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Sangrur",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Tarn Taran",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Moga",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    }
+  ],
+  "Rajasthan": [
+    {
+      "name": "Ajmer",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Alwar",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Banswara",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Baran",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Barmer",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Bharatpur",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Bhilwara",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Bikaner",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Bundi",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Chittorgarh",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Churu",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Dausa",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Dholpur",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Dungarpur",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Hanumangarh",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Jaipur",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Jaisalmer",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Jalor",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Jhalawar",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Jhunjhunu",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Jodhpur",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Karauli",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Kota",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Nagaur",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Pali",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Pratapgarh",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Rajsamand",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sawai Madhopur",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Sikar",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Sirohi",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Sri Ganganagar",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "Tonk",
+      "id": "32",
+      "wind": "89mps",
+      "humantity": "90",
+      "Temperature": "36°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Udaipur",
+      "id": "33",
+      "wind": "66mps",
+      "humantity": "88",
+      "Temperature": "17°C",
+      "storm": "thunderstorm",
+      "startdate": "26-01--2021",
+      "enddate": "01-02-2021"
+    }
+  ],
+  "Telangana": [
+    {
+      "name": "Adilabad",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Bhadradri Kothagudem",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Hyderabad",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Jagtial",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Jangaon",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Jayashankar Bhoopalpally",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Jogulamba Gadwal",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kamareddy",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Karimnagar",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Khammam",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Komaram Bheem Asifabad",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Mahabubabad",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Mahabubnagar",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Mancherial",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Medak",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Medchal",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Nagarkurnool",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Nalgonda",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Nirmal",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Nizamabad",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Peddapalli",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Rajanna Sircilla",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Rangareddy",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Sangareddy",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Siddipet",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Suryapet",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Vikarabad",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Wanaparthy",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Warangal (Rural)",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Warangal (Urban)",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Yadadri Bhuvanagiri",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    }
+  ],
+  "Tamilnadu": [
+    {
+      "name": "Kanchipuram",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Tiruvallur",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Cuddalore",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Villupuram",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Vellore",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Tiruvannamalai",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Salem",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Namakkal",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Dharmapuri",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Erode",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Coimbatore",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Nilgiris",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Thanjavur",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Nagapattinam",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Tiruvarur",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Tiruchirappalli",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Karur",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Perambalur",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Pudukkottai",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Madurai",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Theni",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Dindigul",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Ramanathapuram",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Virudhunagar",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Sivaganga",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Tirunelveli",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Thoothukudi",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Kanyakumari",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Krishnagiri",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Ariyalur",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Tiruppur",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "Chengalpattu",
+      "id": "32",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy rain",
+      "startdate": "25-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Chennai",
+      "id": "33",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "18°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Kallakurichi",
+      "id": "34",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Ranipet",
+      "id": "35",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Tenkasi",
+      "id": "36",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Tirupathur",
+      "id": "37",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    }
+  ],
+  "Tripura": [
+    {
+      "name": "Dhalai",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Gomati",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Khowai",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "North Tripura",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Sepahijala",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "South Tripura",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Unakoti",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "West Tripura",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    }
+  ],
+  "Puducherry": [
+    {
+      "name": "Karaikal",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Mahe",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Puducherry",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Yanam",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    }
+  ],
+  "Sikkim": [
+    {
+      "name": "East Sikkim",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "South Sikkim",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "West Sikkim",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "North Sikkim",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    }
+  ],
+  "Uttarakhand": [
+    {
+      "name": "Almora",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Bageshwar",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Chamoli",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Champawat",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Dehradun",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Haridwar",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Nainital",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Pauri Garhwal",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Pithoragarh",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Rudraprayag",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Tehri Garhwal",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Udham Singh Nagar",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Uttarkashi",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    }
+  ],
+  "West Bengal": [
+    {
+      "name": "Alipurduar",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Bankura",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Birbhum",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Cooch Behar",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Dakshin Dinajpur",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Darjeeling",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Hooghly",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Howrah",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Jalpaiguri",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Jhargram",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Kalimpong",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kolkata",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Malda",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Murshidabad",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Nadia",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "North 24 Parganas",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Paschim Medinipur ",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Paschim Burdwan west ",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Purba Burdwan ",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Purba Medinipur (East Medinipur)",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Purulia",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "South 24 Parganas",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Uttar Dinajpur ",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    }
+  ],
+  "Uttar Pradesh": [
+    {
+      "name": "Agra",
+      "id": "1",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Aligarh",
+      "id": "2",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Allahabad",
+      "id": "3",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Ambedkar nagar",
+      "id": "4",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Amethi",
+      "id": "5",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Amroha",
+      "id": "6",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Auraiya",
+      "id": "7",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Azamgarh",
+      "id": "8",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Baghpat",
+      "id": "9",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Bahraich",
+      "id": "10",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Ballia",
+      "id": "11",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Balrampur",
+      "id": "12",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Banda",
+      "id": "13",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Barabanki",
+      "id": "14",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Bareilly",
+      "id": "15",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Basti",
+      "id": "16",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Bhadohi",
+      "id": "17",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Bijinor",
+      "id": "18",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Budaun",
+      "id": "19",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Bulandshahr",
+      "id": "20",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Chandauli",
+      "id": "21",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Chitrakoot",
+      "id": "22",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Deoria",
+      "id": "23",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Etah",
+      "id": "24",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    },
+    {
+      "name": "Etawah",
+      "id": "25",
+      "wind": "23mps",
+      "humantity": "65",
+      "Temperature": "35°C",
+      "storm": "sunny",
+      "startdate": "22-01-2021",
+      "enddate": "26-01-2021"
+    },
+    {
+      "name": "Faizabad",
+      "id": "26",
+      "wind": "15mps",
+      "humantity": "56",
+      "Temperature": "6°C",
+      "storm": "freeze",
+      "startdate": "30-01-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Farrukhabad",
+      "id": "27",
+      "wind": "56mps",
+      "humantity": "78",
+      "Temperature": "18°C",
+      "storm": "rain",
+      "startdate": "31-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Fatehpur",
+      "id": "28",
+      "wind": "88mps",
+      "humantity": "91",
+      "Temperature": "21°C",
+      "storm": "hurricane",
+      "startdate": "04-02-2021",
+      "enddate": "12-02-2021"
+    },
+    {
+      "name": "Firozabad",
+      "id": "29",
+      "wind": "63mps",
+      "humantity": "80",
+      "Temperature": "25°C",
+      "storm": "lightning",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Gautam Buddha Nagar",
+      "id": "30",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "24-02-2021",
+      "enddate": "30-03-2021"
+    },
+    {
+      "name": "Ghazipur",
+      "id": "31",
+      "wind": "15mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "05-02-2021",
+      "enddate": "10-02-2021"
+    },
+    {
+      "name": "Gonda",
+      "id": "32",
+      "wind": "89mps",
+      "humantity": "90",
+      "Temperature": "36°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Gorakhpur",
+      "id": "33",
+      "wind": "66mps",
+      "humantity": "88",
+      "Temperature": "17°C",
+      "storm": "thunderstorm",
+      "startdate": "26-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Hamirpur",
+      "id": "34",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "heavy rain",
+      "startdate": "25-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Hapur",
+      "id": "35",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "18°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Hardoi",
+      "id": "36",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "clouds",
+      "startdate": "25-01-2021",
+      "enddate": "06-02-2021"
+    },
+    {
+      "name": "Hathras",
+      "id": "37",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Jalaun",
+      "id": "38",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Jaunpur",
+      "id": "39",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Jhansi",
+      "id": "40",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kannauj",
+      "id": "41",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Kanpur Dehat",
+      "id": "42",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Kanpur Nagar",
+      "id": "43",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Kanshiram Nagar",
+      "id": "44",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Kaushambi",
+      "id": "45",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Kushinagar",
+      "id": "46",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Lakshmipur - Kheri",
+      "id": "47",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Lalitpur",
+      "id": "48",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Lucknow",
+      "id": "49",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Maharajganj",
+      "id": "50",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Mahoba",
+      "id": "51",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+
+    {
+      "name": "Mainpuri",
+      "id": "52",
+      "wind": "4mps",
+      "humantity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavy Rain",
+      "startdate": "25-01-2021",
+      "enddate": "01-02-2021"
+    },
+    {
+      "name": "Mathura",
+      "id": "53",
+      "wind": "52mps",
+      "humantity": "88",
+      "Temperature": "7°C",
+      "storm": "thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "name": "Mau",
+      "id": "54",
+      "wind": "5mps",
+      "humantity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Meerut",
+      "id": "55",
+      "wind": "2.9mps",
+      "humantity": "74",
+      "Temperature": "32°C",
+      "storm": "haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Mirzapur",
+      "id": "56",
+      "wind": "31mps",
+      "humantity": "85",
+      "Temperature": "27°C",
+      "storm": "lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "name": "Moradabad",
+      "id": "57",
+      "wind": "73mps",
+      "humantity": "96",
+      "Temperature": "17°C",
+      "storm": "hurricane",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "name": "Muzaffarnagar",
+      "id": "58",
+      "wind": "3mps",
+      "humantity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Pilibhit",
+      "id": "59",
+      "wind": "19mps",
+      "humantity": "75",
+      "Temperature": "25°C",
+      "storm": "freshair",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "name": "Pratapgarh",
+      "id": "60",
+      "wind": "61mps",
+      "humantity": "88",
+      "Temperature": "21°C",
+      "storm": "thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "RaeBareli",
+      "id": "61",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    },
+    {
+      "name": "Rampur",
+      "id": "62",
+      "wind": "9mps",
+      "humantity": "78",
+      "Temperature": "23°C",
+      "storm": "gentle breeze",
+      "startdate": "14-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "name": "Saharanpur",
+      "id": "63",
+      "wind": "6mps",
+      "humantity": "72",
+      "Temperature": "33°C",
+      "storm": "clear clouds",
+      "startdate": "01-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Sambhal",
+      "id": "64",
+      "wind": "12mps",
+      "humantity": "84",
+      "Temperature": "21°C",
+      "storm": "lightning",
+      "startdate": "16-02-2021",
+      "enddate": "05-03-2021"
+    },
+    {
+      "name": "Sant kabir nagar",
+      "id": "65",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "8°C",
+      "storm": "hurricane",
+      "startdate": "03-03-2021",
+      "enddate": "11-03-2021"
+    },
+    {
+      "name": "Shahjahanpur",
+      "id": "66",
+      "wind": "5mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "hot air",
+      "startdate": "08-02-2021",
+      "enddate": "14-02-2021"
+    },
+    {
+      "name": "Shamali",
+      "id": "67",
+      "wind": "75mps",
+      "humantity": "83",
+      "Temperature": "20°C",
+      "storm": "lightning",
+      "startdate": "28-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "name": "Shravasti ",
+      "id": "68",
+      "wind": "68mps",
+      "humantity": "88",
+      "Temperature": "25°C",
+      "storm": "thunderstorm",
+      "startdate": "27-01-2021",
+      "enddate": "03-02-2021"
+    },
+    {
+      "name": "Siddharth Nagar",
+      "id": "69",
+      "wind": "99mps",
+      "humantity": "95",
+      "Temperature": "19°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "23-02-2021"
+    },
+    {
+      "name": "Sitapur",
+      "id": "70",
+      "wind": "56mps",
+      "humantity": "75",
+      "Temperature": "32°C",
+      "storm": "heavy rain",
+      "startdate": "23-02-2021",
+      "enddate": "03-03-2021"
+    },
+    {
+      "name": "Sonbhadra",
+      "id": "71",
+      "wind": "78mps",
+      "humantity": "95",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "24-01-2021",
+      "enddate": "02-02-2021"
+    },
+    {
+      "name": "Sultanpur",
+      "id": "72",
+      "wind": "89mps",
+      "humantity": "92",
+      "Temperature": "25°C",
+      "storm": "hurricane",
+      "startdate": "01-02-2021",
+      "enddate": "05-02-2021"
+    },
+    {
+      "name": "Unnao",
+      "id": "73",
+      "wind": "75mps",
+      "humantity": "91",
+      "Temperature": "15°C",
+      "storm": "hurricane",
+      "startdate": "06-02-2021",
+      "enddate": "21-02-2021"
+    },
+    {
+      "name": "Varanasi",
+      "id": "74",
+      "wind": "95mps",
+      "humantity": "98",
+      "Temperature": "29°C",
+      "storm": "hurricane",
+      "startdate": "21-01-2021",
+      "enddate": "29-01-2021"
+    },
+    {
+      "name": "Ghaziabad",
+      "id": "75",
+      "wind": "9mps",
+      "humantity": "72",
+      "Temperature": "32°C",
+      "storm": "clear clouds",
+      "startdate": "03-02-2021",
+      "enddate": "09-02-2021"
+    }
+  ],
+  "Delhi": [
+    {
+      "Name": "Central",
+      "id": "1",
+      "Wind": "4mps",
+      "Humditity": "83",
+      "Temperature": "27°C",
+      "storm": "Heavyrain",
+      "startdate": "25-01-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "Name": "East",
+      "id": "2",
+      "Wind": "52mps",
+      "Humditity": "88",
+      "Temperature": "18°C",
+      "storm": "Thunderstorm",
+      "startdate": "15-02-2021",
+      "enddate": "24-02-2021"
+    },
+    {
+      "Name": "Newdelhi",
+      "id": "3",
+      "Wind": "5mps",
+      "Humditity": "74",
+      "Temperature": "28°C",
+      "storm": "Clouds",
+      "startdate": "25-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "Name": "North",
+      "id": "4",
+      "Wind": "2.9mps",
+      "Humditity": "74",
+      "Temperature": "32°C",
+      "storm": "Haze",
+      "startdate": "21-01-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "Name": "NorthEast",
+      "id": "5",
+      "Wind": "31mps",
+      "Humditity": "85",
+      "Temperature": "27°C",
+      "storm": "Lightning",
+      "startdate": "08-02-2021",
+      "enddate": "26-02-2021"
+    },
+    {
+      "Name": "NorthWest",
+      "id": "6",
+      "Wind": "73mps",
+      "Humditity": "96",
+      "Temperature": "17°C",
+      "storm": "Hurricance",
+      "startdate": "29-01-2021",
+      "enddate": "28-02-2021"
+    },
+    {
+      "Name": "South",
+      "id": "7",
+      "Wind": "3mps",
+      "Humditity": "75",
+      "Temperature": "28°C",
+      "storm": "lightair",
+      "startdate": "02-02-2021",
+      "enddate": "15-02-2021"
+    },
+    {
+      "Name": "South West",
+      "id": "8",
+      "Wind": "19mps",
+      "Humditity": "75",
+      "Temperature": "25°C",
+      "storm": "Fresh air",
+      "startdate": "15-02-2021",
+      "enddate": "25-02-2021"
+    },
+    {
+      "Name": "West",
+      "id": "9",
+      "Wind": "61mps",
+      "Humditity": "88",
+      "Temperature": "21°C",
+      "storm": "Thunderstorm",
+      "startdate": "06-02-2021",
+      "enddate": "08-02-2021"
+    },
+    {
+      "Name": "Delhi",
+      "id": "10",
+      "Wind": "5mps",
+      "Humditity": "72",
+      "Temperature": "32°C",
+      "storm": "Hot air",
+      "startdate": "05-02-2021",
+      "enddate": "02-03-2021"
+    }
+  ],
+  "Ladak": [
+    {
+      "Name": "Kargil",
+      "id": "1",
+      "Wind": "56mph",
+      "Humditity": "80",
+      "Temperature": "15°C",
+      "storm": "Lightning",
+      "startdate": "26-01-2021",
+      "enddate": "28-01-2021"
+    },
+    {
+      "Name": "Leh",
+      "id": "2",
+      "Wind": "12mps",
+      "Humditity": "75",
+      "Temperature": "21°C",
+      "storm": "Sunny",
+      "startdate": "02-02-2021",
+      "enddate": "12-02-2021"
+    }
+  ],
+  "Chandigarh": [
+    {
+      "Name": "Chandigarh",
+      "id": "1",
+      "Wind": "56mps",
+      "Humditity": "75",
+      "Temperature": "29°C",
+      "storm": "clouds",
+      "startdate": "25-01-2021",
+      "enddate": "31-01-2021"
+    }
+  ],
+  "Jammu & Kashmir": [
+      {
+        "Name": "Anantnag",
+        "id": "1",
+        "Wind": "4mps",
+        "Humditity": "83",
+        "Temperature": "27°C",
+        "storm": "Heavyrain",
+        "startdate": "25-01-2021",
+        "enddate": "08-02-2021"
+      },
+      {
+        "Name": "Bandipore",
+        "id": "2",
+        "Wind": "52mps",
+        "Humditity": "88",
+        "Temperature": "18°C",
+        "storm": "Thunderstorm",
+        "startdate": "15-02-2021",
+        "enddate": "24-02-2021"
+      },
+      {
+        "Name": "Baramulla",
+        "id": "3",
+        "Wind": "5mps",
+        "Humditity": "74",
+        "Temperature": "28°C",
+        "storm": "Clouds",
+        "startdate": "25-01-2021",
+        "enddate": "26-02-2021"
+      },
+      {
+        "Name": "Budgam",
+        "id": "4",
+        "Wind": "2.9mps",
+        "Humditity": "74",
+        "Temperature": "32°C",
+        "storm": "Haze",
+        "startdate": "21-01-2021",
+        "enddate": "26-02-2021"
+      },
+      {
+        "Name": "Doda",
+        "id": "5",
+        "Wind": "31mps",
+        "Humditity": "85",
+        "Temperature": "27°C",
+        "storm": "Lightning",
+        "startdate": "08-02-2021",
+        "enddate": "26-02-2021"
+      },
+      {
+        "Name": "Ganderbal",
+        "id": "6",
+        "Wind": "73mps",
+        "Humditity": "96",
+        "Temperature": "17°C",
+        "storm": "Hurricance",
+        "startdate": "29-01-2021",
+        "enddate": "28-02-2021"
+      },
+      {
+        "Name": "Jammu",
+        "id": "7",
+        "Wind": "3mps",
+        "Humditity": "75",
+        "Temperature": "28°C",
+        "storm": "lightair",
+        "startdate": "02-02-2021",
+        "enddate": "15-02-2021"
+      },
+      {
+        "Name": "Kathua",
+        "id": "8",
+        "Wind": "19mps",
+        "Humditity": "75",
+        "Temperature": "25°C",
+        "storm": "Fresh air",
+        "startdate": "15-02-2021",
+        "enddate": "25-02-2021"
+      },
+      {
+        "Name": "Kishtwar",
+        "id": "9",
+        "Wind": "61mps",
+        "Humditity": "88",
+        "Temperature": "21°C",
+        "storm": "Thunderstorm",
+        "startdate": "06-02-2021",
+        "enddate": "08-02-2021"
+      },
+      {
+        "Name": "Kulgam",
+        "id": "10",
+        "Wind": "5mps",
+        "Humditity": "72",
+        "Temperature": "32°C",
+        "storm": "Hot air",
+        "startdate": "05-02-2021",
+        "enddate": "02-03-2021"
+      },
+      {
+        "Name": "Kupwara",
+        "id": "11",
+        "Wind": "9mps",
+        "Humditity": "78",
+        "Temperature": "23°C",
+        "storm": "Gentle Breeze",
+        "startdate": "14-02-2021",
+        "enddate": "15-02-2021"
+      },
+      {
+        "Name": "Poonch",
+        "id": "12",
+        "Wind": "6mps",
+        "Humditity": "72",
+        "Temperature": "33°C",
+        "storm": "Clear clouds",
+        "startdate": "01-02-2021",
+        "enddate": "21-02-2021"
+      },
+      {
+        "Name": "Pulwama",
+        "id": "13",
+        "Wind": "12mps",
+        "Humditity": "84",
+        "Temperature": "21°C",
+        "storm": "Lightning",
+        "startdate": "16-02-2021",
+        "enddate": "05-03-2021"
+      },
+      {
+        "Name": "Rajouri",
+        "id": "14",
+        "Wind": "78mps",
+        "Humditity": "95",
+        "Temperature": "8°C",
+        "storm": "Hurricance",
+        "startdate": "03-03-2021",
+        "enddate": "11-03-2021"
+      },
+      {
+        "Name": "Ramban",
+        "id": "15",
+        "Wind": "5mps",
+        "Humditity": "72",
+        "Temperature": "32°C",
+        "storm": "Hot air",
+        "startdate": "08-02-2021",
+        "enddate": "14-02-2021"
+      },
+      {
+        "Name": "Reasi",
+        "id": "16",
+        "Wind": "75mps",
+        "Humditity": "83",
+        "Temperature": "20°C",
+        "storm": "Lightning",
+        "startdate": "28-01-2021",
+        "enddate": "08-02-2021"
+      },
+      {
+        "Name": "Samba",
+        "id": "17",
+        "Wind": "68mps",
+        "Humditity": "88",
+        "Temperature": "25°C",
+        "storm": "Thunderstorm",
+        "startdate": "27-01-2021",
+        "enddate": "03-02-2021"
+      },
+      {
+        "Name": "Shopian",
+        "id": "18",
+        "Wind": "99mps",
+        "Humditity": "95",
+        "Temperature": "19°C",
+        "storm": "Hurricance",
+        "startdate": "06-02-2021",
+        "enddate": "23-02-2021"
+      },
+      {
+        "Name": "Srinagar",
+        "id": "19",
+        "Wind": "56mps",
+        "Humditity": "75",
+        "Temperature": "32°C",
+        "storm": "Heavyrain",
+        "startdate": "23-02-2021",
+        "enddate": "03-03-2021"
+      },
+      {
+        "Name": "Udampur",
+        "id": "20",
+        "Wind": "78mps",
+        "Humditity": "95",
+        "Temperature": "15°C",
+        "storm": "Hurricance",
+        "startdate": "24-01-2021",
+        "enddate": "02-02-2021"
+      }
+  ]
+}

@@ -1,0 +1,28 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Balod,1,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Baloda Bazar,2,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Balrampur,3,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Bastar,4,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Bemetara,5,31mps,85,27°C,Lightning,08-02-21,26-02-21
+Bijapur,6,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Bilaspur,7,3mps,75,28°C,lightair,02-02-21,15-02-21
+Dantewada,8,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Dhamtari,9,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Durg,10,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Gariyaband,11,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Janjgir-Champa,12,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Jashpur,13,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Kabirdham,14,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Kanker,15,5mps,72,32°C,Hot air,08-02-21,14-02-21
+Kondagoan,16,75mps,83,20°C,Lightning,28-01-21,08-02-21
+Korba,17,68mps,88,25°C,Thunderstorm,27-01-21,03-02-21
+Korea,18,99mps,95,19°C,Hurricance,06-02-21,23-02-21
+Mahasamund,19,56mps,75,32°C,Heavyrain,23-02-21,03-03-21
+Mungeli,20,78mps,95,15°C,Hurricance,24-01-21,02-02-21
+Narayanpur,21,89mps,92,25°C,Hurricance,01-02-21,05-02-21
+Raigarh,22,75mps,91,15°C,Hurricance,06-02-21,21-02-21
+Raipur,23,95mps,98,29°C,Hurricance,21-01-21,29-01-21
+Rajnandgaon,24,9mps,72,32°C,Clear clouds,03-02-21,09-02-21
+Sukma,25,23mps,65,35°C,Sunny,22-01-21,26-01-21
+Surajpur,26,15mps,56,6°C,Freeze,30-01-21,05-02-21
+Surguja,27,56mps,78,18°C,Rain,31-01-21,06-01-21

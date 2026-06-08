@@ -1,0 +1,34 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Almora,1,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Bagershwar,2,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Chamoli,3,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Champawat,4,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Dehradun,5,31mps,85,27°C,Lightning,08-02-21,26-02-21
+Haridwar,6,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Nainital,7,3mps,75,28°C,lightair,02-02-21,15-02-21
+Pauri Garhwal,8,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Pithoagrah,9,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Rudraprayag,10,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Tehri Garhwal,11,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Udham Singh,12,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Uttarkashi,13,12mps,84,21°C,Lightning,16-02-21,05-03-21
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

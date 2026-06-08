@@ -1,0 +1,40 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Anantnag,1,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Bandipore,2,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Baramulla,3,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Budgam,4,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Doda,5,31mps,85,27°C,Lightning,08-02-21,26-02-21
+Ganderbal,6,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Jammu,7,3mps,75,28°C,lightair,02-02-21,15-02-21
+Kathua,8,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Kishtwar,9,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Kulgam,10,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Kupwara,11,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Poonch,12,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Pulwama,13,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Rajouri,14,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Ramban,15,5mps,72,32°C,Hot air,08-02-21,14-02-21
+Reasi,16,75mps,83,20°C,Lightning,28-01-21,08-02-21
+Samba,17,68mps,88,25°C,Thunderstorm,27-01-21,03-02-21
+Shopian,18,99mps,95,19°C,Hurricance,06-02-21,23-02-21
+Srinagar,19,56mps,75,32°C,Heavyrain,23-02-21,03-03-21
+Udampur,20,78mps,95,15°C,Hurricance,24-01-21,02-02-21
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

@@ -1,0 +1,34 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Angul,1,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Boudh,2,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Balangir,3,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Bargarh,4,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+ Balasore,5,31mps,85,27°C,Lightning,08-02-21,26-02-21
+Bhadrak,6,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Cuttack,7,3mps,75,28°C,lightair,02-02-21,15-02-21
+Deogarh,8,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Dhenkanal,9,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Ganjam,10,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Gajapati,11,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Jharsuguda,12,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Jaipur,13,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Jagatsighapur,14,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Khordha,15,5mps,72,32°C,Hot air,08-02-21,14-02-21
+Keonjhar,16,75mps,83,20°C,Lightning,28-01-21,08-02-21
+Kalahandi,17,68mps,88,25°C,Thunderstorm,27-01-21,03-02-21
+Kandhamal,18,99mps,95,19°C,Hurricance,06-02-21,23-02-21
+Koraput,19,56mps,75,32°C,Heavyrain,23-02-21,03-03-21
+Kendrapara,20,78mps,95,15°C,Hurricance,24-01-21,02-02-21
+ Malkangiri,21,89mps,92,25°C,Hurricance,01-02-21,05-02-21
+Mayurbhanj,22,75mps,91,15°C,Hurricance,06-02-21,21-02-21
+Nabarangpur,23,95mps,98,29°C,Hurricance,21-01-21,29-01-21
+Nuapada,24,9mps,72,32°C,Clear clouds,03-02-21,09-02-21
+Nayagrah,25,23mps,65,35°C,Sunny,22-01-21,26-01-21
+Puri,26,15mps,56,6°C,Freeze,30-01-21,05-02-21
+Rayagada,27,56mps,78,18°C,Rain,31-01-21,06-02-21
+sambalpur,28,88mps,91,21°C,Hurricance,04-02-21,12-02-21
+Subarnapur,29,63mps,80,25°C,Lightning,25-01-21,06-02-21
+ Sundargarh,30,3mps,75,32°C,Clear clouds,24-02-21,30-03-21
+,,,,,,,
+,,,,,,,
+,,,,,,,

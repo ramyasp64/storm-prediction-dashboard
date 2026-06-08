@@ -1,0 +1,75 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Agra,1,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Aligarh,2,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Allahabad,3,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Ambedkar Nagar,4,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Amethi,5,31mps,85,27°C,Lightning,08-02-21,26-02-21
+Amroha,6,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Auraiya,7,3mps,75,28°C,lightair,02-02-21,15-02-21
+Azamgarh,8,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Baghpat,9,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Bahraich,10,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Ballia,11,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Balrampur,12,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Banda,13,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Barabanki,14,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Bareilly,15,5mps,72,32°C,Hot air,08-02-21,14-02-21
+Basti,16,75mps,83,20°C,Lightning,28-01-21,08-02-21
+Bhadohi,17,68mps,88,25°C,Thunderstorm,27-01-21,03-02-21
+Bijnor,18,99mps,95,19°C,Hurricance,06-02-21,23-02-21
+Budaun,19,56mps,75,32°C,Heavyrain,23-02-21,03-03-21
+Bulandshahr,20,78mps,95,15°C,Hurricance,24-01-21,02-02-21
+Chandauli,21,89mps,92,25°C,Hurricance,01-02-21,05-02-21
+Chitrakoot,22,75mps,91,15°C,Hurricance,06-02-21,21-02-21
+Deoria,23,95mps,98,29°C,Hurricance,21-01-21,29-01-21
+Etah,24,9mps,72,32°C,Clear clouds,03-02-21,09-02-21
+Etawah,25,23mps,65,35°C,Sunny,22-01-21,26-01-21
+Faizabed,26,15mps,56,6°C,Freeze,30-01-21,05-02-21
+Farrukhabed,27,56mps,78,18°C,Rain,31-01-21,06-02-21
+Fatechpur,28,88mps,91,21°C,Hurricance,04-02-21,12-02-21
+Firozabad,29,63mps,80,25°C,Lightning,25-01-21,06-02-21
+Gautam Buddha Nagar,30,3mps,75,32°C,Clear clouds,24-02-21,30-03-21
+Ghazipur,31,15mps,84,21°C,Lightning,05-02-21,10-02-21
+Gonda,32,89mps,90,36°C,Hurricance,03-03-21,11-03-21
+Gorakhpur,33,66mps,88,17°C,thunderstorm,26-01-21,01-02-21
+Hamirpur,34,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Hapur,35,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Hardoi,36,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Hathrai,37,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Jalanum,38,31mps,85,27°C,Lightning,08-02-21,26-02-21
+Jaunpur,39,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Jhansi,40,3mps,75,28°C,lightair,02-02-21,15-02-21
+Kannauj,41,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Kanpur Dehat,42,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Kanpur Nagar,43,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Kanshiram Nagar,44,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Kaushambi,45,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Kushinagar,46,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Lakhimpur - Kheri,47,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Lalitpur,48,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Lucknow,49,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Maharajganj,50,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Mahoba,51,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Mainpuri,52,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Mathura,53,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Mau,54,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Meerut,55,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Mirzapur,56,31mps,85,27°C,Lightning,08-02-21,26-02-21
+Moradabad,57,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Muzaffarnagar,58,3mps,75,28°C,lightair,02-02-21,15-02-21
+Pilibhit,59,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Pratapgarph,60,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+RaeBareli,61,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Rampur,62,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Saharanpur,63,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Sambhal,64,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Sant Kabir Nagar,65,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Shahjahanpur,66,5mps,72,32°C,Hot air,08-02-21,14-02-21
+Shamali,67,75mps,83,20°C,Lightning,28-01-21,08-02-21
+Shravasti,68,68mps,88,25°C,Thunderstorm,27-01-21,03-02-21
+Siddharath Nagar,69,99mps,95,19°C,Hurricance,06-02-21,23-02-21
+Sitapur,70,56mps,75,32°C,Heavyrain,23-02-21,03-03-21
+Sonbhadra,71,78mps,95,15°C,Hurricance,24-01-21,02-02-21
+Sultanpur,72,89mps,92,25°C,Hurricance,01-02-21,05-02-21
+Unnao,73,75mps,91,15°C,Hurricance,06-02-21,21-02-21
+Varanasi,74,95mps,98,29°C,Hurricance,21-01-21,29-01-21

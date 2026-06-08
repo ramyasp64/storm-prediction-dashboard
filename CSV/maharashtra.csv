@@ -1,0 +1,53 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Ahmednagar,1,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Akola,2,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Amravati,3,5mps,74,28°C,Clouds,25-01-21,26-02-21
+Aurangabad,4,2.9mps,74,32°C,Haze,21-01-21,26-02-21
+Beed,5,31mps,85,27°C,Lightning,08-02-21,26-02-21
+ Bhandara,6,73mps,96,17°C,Hurricance,29-01-21,28-02-21
+Buldhana,7,3mps,75,28°C,lightair,02-02-21,15-02-21
+Chandrapur,8,19mps,75,25°C,Fresh air,15-02-21,25-02-21
+Dhule,9,61mps,88,21°C,Thunderstorm,06-02-21,08-02-21
+Gadchiroli,10,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Gondia,11,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Hingoli,12,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Jalgaon,13,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Jalna,14,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Kolhapur,15,5mps,72,32°C,Hot air,08-02-21,14-02-21
+Latur,16,75mps,83,20°C,Lightning,28-01-21,08-02-21
+Mumbai city,17,68mps,88,25°C,Thunderstorm,27-01-21,03-02-21
+Mumbai suburban,18,99mps,95,19°C,Hurricance,06-02-21,23-02-21
+Nagpur,19,56mps,75,32°C,Heavyrain,23-02-21,03-03-21
+Nanded,20,78mps,95,15°C,Hurricance,24-01-21,02-02-21
+Nashik,21,89mps,92,25°C,Hurricance,01-02-21,05-02-21
+Osmanabad,22,75mps,91,15°C,Hurricance,06-02-21,21-02-21
+palghar,23,95mps,98,29°C,Hurricance,21-01-21,29-01-21
+Parbhani,24,9mps,72,32°C,Clear clouds,03-02-21,09-02-21
+Pune,25,23mps,65,35°C,Sunny,22-01-21,26-01-21
+Raigad,26,15mps,56,6°C,Freeze,30-01-21,05-02-21
+Ratnagiri,27,56mps,78,18°C,Rain,31-01-21,06-02-21
+Sangli,28,88mps,91,21°C,Hurricance,04-02-21,12-02-21
+Satara ,29,63mps,80,25°C,Lightning,25-01-21,06-02-21
+Sindhudurg,30,3mps,75,32°C,Clear clouds,24-02-21,30-03-21
+Solapur,31,15mps,84,21°C,Lightning,05-02-21,10-02-21
+Thane,32,89mps,90,36°C,Hurricance,03-03-21,11-03-21
+Wardha,33,66mps,88,17°C,thunderstorm,26-01-21,01-02-21
+Washim,34,4mps,83,27°C,Heavyrain,25-01-21,08-02-21
+Nandurbar,35,52mps,88,18°C,Thunderstorm,15-02-21,24-02-21
+Yavantmal,36,5mps,74,28°C,Clouds,25-01-21,26-02-21
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,

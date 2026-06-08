@@ -1,0 +1,9 @@
+ Name,Id,Wind,Humditity,Temparature,storm,startdate,enddate
+Aizawl,1,5mps,72,32°C,Hot air,05-02-21,02-03-21
+Champhai,2,9mps,78,23°C,Gentle Breeze,14-02-21,15-02-21
+Kolasib,3,6mps,72,33°C,Clear clouds,01-02-21,21-02-21
+Lawngtlai,4,12mps,84,21°C,Lightning,16-02-21,05-03-21
+Lunglei,5,78mps,95,8°C,Hurricance,03-03-21,11-03-21
+Mamit,6,5mps,72,32°C,Hot air,08-02-21,14-02-21
+Saiha,7,75mps,83,20°C,Lightning,28-01-21,08-02-21
+Serchip,8,68mps,88,25°C,Thunderstorm,27-01-21,03-02-21
